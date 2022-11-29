@@ -1,0 +1,44 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\froman\fcharset0 Times-Roman;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red0\green0\blue233;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;\cssrgb\c0\c0\c93333;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sl340\sa280\partightenfactor0
+
+\f0\b\fs28 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Terms of Use\
+\pard\pardeftab720\sl280\sa240\partightenfactor0
+
+\b0\fs24 \cf2 By using any of the media associated with this template, you acknowledge and agree to the conditions outlined below. If you do not agree with these terms, do not use this template or any related media. This agreement will be governed by and construed in accordance with the laws of the State of North Carolina, without regard to conflict of law principles. This template, its documentation, associated media, and tools are open source and free to the general public to use and alter under the {\field{\*\fldinst{HYPERLINK "http://www.opensource.org/licenses/afl-3.0.php"}}{\fldrslt \cf3 \ul \ulc3 \strokec3 Academic Free License}}. Any site that is not directly affiliated with North Carolina State University must include acknowledgment as explained below. If this "Terms of Use" document and the Academic Free License disagree or are incompatible on any point, this document takes precedence.\uc0\u8232 \
+\pard\pardeftab720\sl340\sa280\partightenfactor0
+
+\b\fs28 \cf2 University Right to Use\
+\pard\pardeftab720\sl280\sa240\partightenfactor0
+
+\b0\fs24 \cf2 North Carolina State University has royalty free, unlimited use, non-revokable license to use the materials associated with this site. Any NCSU employee has consent to use and alter these materials for any application pertaining directly to the university. Acknowledgment of the source should be given unless such acknowledgment would be deemed inappropriate. Acknowledgment is not required for consent of use.\
+\pard\pardeftab720\sl340\sa280\partightenfactor0
+
+\b\fs28 \cf2 Public Right to Use\
+\pard\pardeftab720\sl280\sa240\partightenfactor0
+
+\b0\fs24 \cf2 Any individual or organization can use and alter these materials associated with this site provided that appropriate acknowledgment of the source is given. Acknowledgment is required for consent of use.\
+\pard\pardeftab720\sl340\sa280\partightenfactor0
+
+\b\fs28 \cf2 Limitation of Support and Liability\
+\pard\pardeftab720\sl280\sa240\partightenfactor0
+
+\b0\fs24 \cf2 Information and materials provided in this web site are provided "as is" without warranty of any kind, either expressed or implied, including but not limited to the implied warranties of merchantability of the fitness of anything associated with this web site for any particular purpose.\uc0\u8232 In no event will North Carolina State University, Computer Science Department, or CSC IT will be held liable to any other party for any direct, indirect, special, or other consequential damages as a result of use of this web site or any related materials or in any hyper linked web site, including, without limitation, any lost profits, business interruption, loss of programs or other data on your information processing system of otherwise, even if we are expressly advised and aware of such possibility of damage.\
+\pard\pardeftab720\sl340\sa280\partightenfactor0
+
+\b\fs28 \cf2 Change of Agreement\
+\pard\pardeftab720\sl280\sa240\partightenfactor0
+
+\b0\fs24 \cf2 The Terms of Use are subject to change. Notice of these changes may be obtained from the web site where the template is being served from at that time.\
+\pard\pardeftab720\sl340\sa280\partightenfactor0
+
+\b\fs28 \cf2 Copyright Information\
+\pard\pardeftab720\sl280\partightenfactor0
+
+\b0\fs24 \cf2 Copyright \'a9 2010 by CSC IT. All rights reserved.\
+Any duplication of the images, HTML, content, or scripts on this site without the author's consent is strictly forbidden by law. Consent to duplicate and alter the images, HTML, content, or scripts is given only while the Terms of Use are being followed, and is revoked if compliance with these terms ceases.}
