@@ -1,0 +1,277 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#banner {height: 300px;
+	background: url("images/hunt.jpg") center center no-repeat;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	/*opacity: 0.3;*/
+  }
+#top {width: 1100px;
+	position: absolute;
+	top: 30px;
+	left: 0;
+    right: 0;
+    margin: 0 auto;}
+.profilepic {float: left;
+	padding: 25px 10px 25px 35px;}
+.member {float: left;
+	padding: 0 10px;
+	font-family: "UniversLight";
+	color: white;
+	font-weight: bold;}
+.name {font-size: 36px;
+	font-family: "UniversRoman";}
+.position {font-family: "UniversLight";}
+.csclogo {position: absolute;
+	right: 0;
+	bottom: 25px;}
+
+
+
+#mid {clear: both;
+	font-family: "UniversRoman";}
+.content {color: black;}
+.content a {text-decoration: underline;}
+.content a,
+.content a:visited {color: #cc0000;}
+.content a:hover {color: #990000;}
+.content {padding: 0 35px 25px 35px;}
+
+.navbar-header a {text-decoration: none;}
+.navbar-header a,
+.navbar-header a:visited {color: white;}
+.navbar-header a:hover {color: #f2f2f2;}
+
+
+
+/******* footer ******/
+#footer {background-color: #cc0000;
+	color: white;}
+#container {margin: 0 auto;
+	height: 220px;
+	padding: 20px;
+	clear: both;}
+.logo {float: left;
+	clear: both;
+	padding: 0 0 15px 5px;}
+#footer a, 
+#footer a:hover, 
+#footer a:visited {color: white;}
+a:hover {text-decoration: underline;}
+
+.coe {float: left;
+	padding-left: 15px;
+	padding-top: 5px;
+	width: 250px;
+	clear: left;}
+.links {float: right;
+	width: 65%;
+	padding-left: 30%;}
+.midlinks {float: right;
+	width: 40%;}
+.rightlinks {float: right;
+	width: 50%;}
+
+.tiny {font-size: 9px;}
+
+#tablet_footer {display: none;
+	font-size: 11px;
+	padding: 10px 35px;
+	margin: 0 auto;
+	height: 70px;}
+.tab_foot_left {float: left;}
+.tab_foot_right {float: right;}
+
+#mobile_footer {display: none;
+	height: 100px;
+	font-size: 10px;
+	padding: 10px;
+	text-align: center;
+	margin: 0 auto;}
+	
+/******* end footer ******/
+
+
+/******* mobile ******/
+
+.mob_member {display: none;
+	padding: 0 35px;
+	position: relative;}
+.mob_name {text-transform: uppercase;
+	margin-bottom: 0;}
+.mob_position {font-size: 20px;
+	margin-top: 0;}
+.mob_home a {text-decoration: none;}
+.page_title {padding-top: 15px;}
+
+/******* end mobile ******/
+
+
+
+
+/******* mobile responsive ******/
+@media screen and (min-width: 1100px) {
+	#top, .content, #container {
+		width: 1100px;
+		margin: 0 auto;}	
+	.container-fluid {width: 1000px;}
+	.navbar-nav li {padding: 0 25px;}
+}
+@media screen and (max-width: 1100px) {
+	.navbar-nav li {padding: 0 25px;}
+	/*#banner {height: 300px;
+	background: url("../faculty_template/eb2_gradient.jpg") center center no-repeat;}*/
+}
+
+@media screen and (max-width: 1200px) {
+	 .content {padding-left: 25px;}
+	 #top {width: 95%; padding-left: 5px;}
+	 .profilepic {padding-left: 0;}
+	 
+	 
+}
+
+@media screen and (max-width: 1050px) {
+	/*.nav_bar li {padding: 0 5%;}*/
+	.links {padding-left: 30px;}
+	.content {padding-right: 20px;}
+	.navbar-nav li {padding: 0 25px;}
+}
+@media screen and (max-width: 1000px) {
+	.navbar-nav li {padding: 0 20px;}
+}
+@media screen and (max-width: 940px) {
+	.navbar-nav li {padding: 0 15px;}
+}
+
+
+@media screen and (max-width: 900px) {
+	/*.nav_bar li {padding: 0 4%;}*/
+	.navbar-nav li {padding: 0 10px;}
+}
+@media screen and (max-width: 830px) {
+	.navbar-nav li {padding: 0 10px;}
+}
+
+
+@media screen and (max-width: 800px) {
+	/*#container {display: none;}
+	#tablet_footer {display: block;}*/
+	.navbar-nav li {padding: 0 12px;}
+	.links {width: 450px;}
+}
+
+
+
+
+@media screen and (min-width: 768px) {
+	.mob_home {display: none;}
+	
+	.navbar {
+	width: 100%;
+	border-radius: 0;
+	border-color: #666666;
+	background-color: #666666;
+	font-size: 16px;
+	padding: 5px 10px;
+	}
+	
+	
+	
+	.navbar-default .navbar-nav>li>a,
+	.navbar-default .navbar-nav>li>a:visited {color: white;}
+	.navbar-default .navbar-nav>li>a:hover {color: black;}
+	
+	.navbar-nav>li>a {line-height: 5px;}
+	
+	.content {min-height: 500px;}
+}
+
+@media screen and (max-width: 768px) {
+	.mob_home {color: white;
+		float: right;
+		line-height: 15px;}
+	
+	.navbar {background-color: #cc0000;
+		border-color: #cc0000;
+		padding: 0 20px;
+		position: absolute;
+		top: 30px;
+		width: 100%;
+		clear: both;}
+	
+	
+	.navbar-default .navbar-toggle {background-color: #f2f2f2;
+		float: left;
+		}
+	.navbar-default .navbar-nav>li {font-size: 16px;}
+	.navbar-default .navbar-nav>li>a,
+	.navbar-default .navbar-nav>li>a:visited {color: white;}
+	.navbar-default .navbar-nav>li>a:hover {color: black;}
+	
+	#container {display: none;}
+	#tablet_footer {display: block;}
+	
+	.csclogo {display: none;}
+	#banner {height: 300px;}
+	#top {top: 90px;}
+	.member {padding-right: 0;}
+	.name, .content h2 {font-size: 30px;}
+	.position {font-size: 24px;}
+	.profilepic img {width: 150px;
+		height: 185px;}
+	#banner {height: 300px;}
+	
+	.content {min-height: 500px;}
+}
+
+
+
+@media screen and (max-width: 710px) {
+	.position {font-size: 20px;}	
+}
+@media screen and (max-width: 640px) {
+	.name {font-size: 28px;}
+	.position {font-size: 18px;}	
+}
+
+@media screen and (max-width: 600px) {
+	
+	.mob_member {display: block;
+		padding-top: 20px;
+		}
+	.navbar {position: relative;
+		top: 30px;}
+	#banner, #top {display: none;}
+	body {position: absolute;
+		top: 0;
+		bottom: 0;
+		background-color: #f2f2f2;
+		}
+	/*.mob_member {color: white;}*/
+	.mob_position {font-style: italic;}
+	.content {padding-top: 0;
+		background-color: white;
+		min-height: 0;}
+	.content h2 {display: block;
+		font-size: 22px;}
+	
+}
+
+
+
+@media screen and (max-width: 480px) {
+	#tablet_footer {display: none;}
+	#mobile_footer {display: block;}	
+	.content {padding: 0 25px 25px 25px;}
+	.mob_member {padding: 20px 25px 0 25px;}
+}
+
+
+
+
+
+
