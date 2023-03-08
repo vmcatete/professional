@@ -1,4 +1,4 @@
 # www
-My Personal Portfolio
+My Professional Portfolio
 
-https://pages.github.ncsu.edu/vmcatete/www/index.html
+dr.veronicacatete.com
